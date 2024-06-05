@@ -1,5 +1,7 @@
 body {
-    background-color: green;
+    background-image: url('image/background6.jpg');;
+    background-size: cover;
+    background-repeat: no-repeat;
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
@@ -7,10 +9,14 @@ body {
 
 h1 {
     color: #000000;
+    font-family: Courier, monospace; /* Используем Courier или Courier New */
+    font-weight: bold; /* Делаем шрифт пожирнее */
 }
 
 p {
-    color: #000000;
+    color: black;
+    font-family: Courier, monospace; /* Используем Courier или Courier New */
+    font-weight: bold; /* Делаем шрифт пожирнее */
 }
 
 .gallery {
@@ -38,6 +44,8 @@ p {
 a {
     text-decoration: underline;
     color: black;
+    font-family: Courier, monospace; /* Используем Courier или Courier New */
+    font-weight: bold; /* Делаем шрифт пожирнее */
 }
 #sosluzhivtsi {
     padding: 0; /* Убираем отступы вокруг списка */
