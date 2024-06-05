@@ -31,9 +31,9 @@ p {
 
 .caption {
     
-    font-size: 36px; /* Увеличиваем размер текста */
-    margin-top: 5px; /* Уменьшаем отступ сверху */
-    margin-bottom: 3px /*Уменьшаем отступ снизу */
+    font-size: 3vw; /* Увеличиваем размер текста */
+    margin-top: 1vw; /* Уменьшаем отступ сверху */
+    margin-bottom: 0.5vw /*Уменьшаем отступ снизу */
 }
 a {
     text-decoration: underline;
